@@ -1,2 +1,2 @@
 # tendances-site
-tendece
+tendence
